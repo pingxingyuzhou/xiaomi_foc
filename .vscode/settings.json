@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "can.h": "c",
+        "foc_handle.h": "c",
+        "bsp_can.h": "c",
+        "main.h": "c",
+        "foc_encoder.h": "c",
+        "fsm.h": "c"
+    }
+}
